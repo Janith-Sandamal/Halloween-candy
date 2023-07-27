@@ -11,4 +11,6 @@
 ![127 0 0 1_5500_index html](https://github.com/Janith-Sandamal/Halloween-candy/assets/78975250/42576019-b838-4eb3-9062-06ee7fb33b7f)
 <br><br>
 ## Mobile View
+![127 0 0 1_5500_index html(iPhone XR)](https://github.com/Janith-Sandamal/Halloween-candy/assets/78975250/870f7e06-8e3c-4423-b0e5-82003f1eb458)
+
 
